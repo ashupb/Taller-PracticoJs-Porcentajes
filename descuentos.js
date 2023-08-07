@@ -96,3 +96,21 @@ return cuponElement.name == coupon;
 
 
 
+//Ejercicio
+
+/*const users = [];
+users.push({ id: 123, name: 'Juanito Alcachofa' });
+users.push({ id: 456, name: 'Juanita Alcaparra' });
+
+function encontrarUsuario(users, id) {
+    const user = users.find(user => user.id == id);
+
+
+if (user) {
+    const name = user.name;
+    return name;
+} else {
+    return false;
+}
+}*/
+
